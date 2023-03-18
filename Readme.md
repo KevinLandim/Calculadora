@@ -1,1 +1,2 @@
-olá, esse projeto é para fazer uma calculadora
+olá, esse projeto é para fazer uma calculadora.
+Aqui vou 
